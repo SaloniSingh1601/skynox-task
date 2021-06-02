@@ -1,0 +1,98 @@
+.container-div {
+  display: flex;
+  padding-bottom: 4rem;
+}
+
+.picture-carousel {
+  width: 50%;
+  padding: 2rem;
+}
+
+.carousel-img-contain {
+  display: flex;
+}
+
+.small-image img {
+  width: 5em;
+  padding: 0.25em;
+}
+
+.product-details {
+  width: 50%;
+  padding: 2rem;
+}
+
+.picture img {
+  width: 100%;
+}
+
+h2 {
+  font-weight: 700;
+  font-family: "Domine", serif;
+  text-decoration: solid;
+  font-size: x-large;
+}
+
+.rating i {
+  color: #02d29d;
+}
+.rating {
+  padding: 1rem 0 0.5rem;
+}
+.cost {
+  line-height: 3;
+  font-size: xx-large;
+}
+
+.place-order button {
+  width: 7rem;
+  font-size: 10px;
+  padding: 1em;
+  margin-top: 0.5rem;
+  text-transform: uppercase;
+}
+
+.review {
+  font-family: "Roboto", sans-serif;
+}
+
+.material-icons {
+  font-size: 12px;
+}
+
+.place-order {
+  font-family: "Roboto", sans-serif;
+}
+
+.add-to-cart {
+  background: #1e1e1e;
+  border: 1px solid #6a6969;
+  color: white;
+}
+
+.add-to-wishlist {
+  background: white;
+  border: 1px solid #6a6969;
+  color: black;
+}
+
+.footer-div {
+  display: flex;
+}
+
+.footer-div div {
+  width: 33%;
+  margin: 2rem;
+}
+
+.footer-div p {
+  font-size: 10px;
+  color: lightgray;
+  padding: 0 1rem;
+  width: 60%;
+}
+
+body {
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+}
